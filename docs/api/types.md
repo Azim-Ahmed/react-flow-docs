@@ -46,7 +46,7 @@ enum ConnectionLineType {
 ### `CoordinateExtent`
 
 ```ts
-type CoordinateExtent = [[number, number], [number, number];
+type CoordinateExtent = [[number, number], [number, number]];
 ```
 
 ### `DefaultEdgeOptions`
